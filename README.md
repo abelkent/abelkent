@@ -1,1 +1,3 @@
-Hello, I'm Abel Kent, a London based data scientist and machine learning specialist. If you are looking to contact me you can do so at: abel.wbkent@gmail.com
+Hello, I'm Abel, a London based data scientist and machine learning specialist graduate of 2022. 
+
+Please send all contact enquiries to: abel.wbkent@gmail.com
